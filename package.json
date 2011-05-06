@@ -1,0 +1,14 @@
+{
+  "name": "restful-things",
+  "description": "Resource-centric REST server",
+  "version": "0.1.0",
+  "homepage": "http://github.com/tiqtech/restful-things",
+  "author": "ryanjduffy",
+  "main": "./lib/main",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
