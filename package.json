@@ -1,10 +1,10 @@
 {
-  "name": "restful-things",
+  "name": "pillowjs",
   "description": "Resource-centric REST server",
-  "version": "0.1.0",
-  "homepage": "http://github.com/tiqtech/restful-things",
+  "version": "0.1.1",
+  "homepage": "http://github.com/tiqtech/pillowjs",
   "author": "ryanjduffy",
-  "main": "./lib/main",
+  "main": "./index.js",
   "directories": {
     "lib": "lib"
   },
